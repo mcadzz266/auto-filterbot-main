@@ -8,9 +8,9 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
-★ Username: @HA_Bots
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: LOXXD
+★ Username: @loxxd007
+★ Country: India 🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -134,11 +134,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
     SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
 
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
-
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+- 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖨𝗌 𝖭𝗈𝗍 𝖠 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍."""
 
     SPAM_TXT = """{} Don't Spam, Wait For {}
 
