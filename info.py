@@ -81,12 +81,12 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/HA_Bots_Support')
-OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Hansaka_Anuhas")
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/HA_Bots')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/HA_Films_World')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/HA_Bots")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/mcsupportgroup')
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/loxxd007")
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/mc_adzz')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/moviecomplexofficialgroup')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/mc_adzz")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/mc_adzz")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
@@ -103,7 +103,7 @@ INDEX_EXTENSIONS = [extensions.lower() for extensions in environ.get('INDEX_EXTE
 
 # boolean settings
 IS_VERIFY = is_enabled('IS_VERIFY', False)
-AUTO_DELETE = is_enabled('AUTO_DELETE', False)
+AUTO_DELETE = is_enabled('AUTO_DELETE', True)
 WELCOME = is_enabled('WELCOME', False)
 PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
 LONG_IMDB_DESCRIPTION = is_enabled("LONG_IMDB_DESCRIPTION", False)
@@ -113,7 +113,7 @@ IMDB = is_enabled('IMDB', True)
 SPELL_CHECK = is_enabled("SPELL_CHECK", True)
 SHORTLINK = is_enabled('SHORTLINK', False)
 
-PAYMENT_QR = environ.get('PAYMENT_QR', 'http://graph.org/file/cacbbea472e5a48ce0d64.jpg')
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/554d5e30fd91002a06a64.jpg')
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True)
